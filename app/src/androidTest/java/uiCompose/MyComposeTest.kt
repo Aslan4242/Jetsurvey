@@ -1,4 +1,4 @@
-package com.codingwithmitch.food2forkcompose.presentation.ui
+package uiCompose
 
 import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.ui.test.*
