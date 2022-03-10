@@ -77,6 +77,7 @@ object Libs {
             const val toolingPreview = "androidx.compose.ui:ui-tooling-preview:$version"
             const val test = "androidx.compose.test:test-core:$version"
             const val uiTest = "androidx.compose.ui:ui-test:$version"
+            const val composeUi = "androidx.compose.ui:ui-test-junit4:$version"
         }
 
         object Navigation {

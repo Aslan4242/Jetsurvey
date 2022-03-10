@@ -25,7 +25,6 @@ buildscript {
     dependencies {
         classpath Libs.androidGradlePlugin
         classpath Libs.Kotlin.gradlePlugin
-        classpath "de.mannodermaus.gradle.plugins:android-junit5:1.7.0.0"
 
     }
 }

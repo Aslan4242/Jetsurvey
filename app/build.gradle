@@ -110,6 +110,8 @@ dependencies {
     implementation Libs.AndroidX.Compose.toolingPreview
     implementation Libs.AndroidX.Compose.runtime
     implementation Libs.AndroidX.Compose.runtimeLivedata
+    implementation Libs.AndroidX.Compose.uiTest
+    implementation Libs.AndroidX.Compose.composeUi
     debugImplementation Libs.AndroidX.Compose.tooling
     debugImplementation Libs.junit
 
